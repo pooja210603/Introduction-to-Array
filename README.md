@@ -20,4 +20,7 @@ for(i=0;i<length_of_array-1;i++)</br>
 printf("%d\n",numbers[i]); //Prints all the elements in array 'numbers'.</br>
 }</br>
 
+## For more information :
+https://www.geeksforgeeks.org/what-is-array/
+
 
