@@ -20,6 +20,10 @@ for(i=0;i<length_of_array-1;i++)</br>
 printf("%d\n",numbers[i]); //Prints all the elements in array 'numbers'.</br>
 }</br>
 
+## Output of program:
+
+![image](https://user-images.githubusercontent.com/125560933/228199223-15ef4028-c27d-4782-a96d-2baba1983dff.png)
+
 ## For more information :
 https://www.geeksforgeeks.org/what-is-array/
 
